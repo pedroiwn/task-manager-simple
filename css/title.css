@@ -1,0 +1,7 @@
+.title {
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    font-size: 48px;
+    color: #20B2AA;
+}

@@ -1,0 +1,7 @@
+.list-item {
+    display: flex;
+    margin-bottom: 24px;
+    font-size: 24px;
+    justify-content: center;
+    list-style-type: none;
+}

@@ -1,0 +1,20 @@
+.buttom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-buttom {
+    margin-right: 40px;
+}
+
+
+.buttom .b  a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #20B2AA;
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
